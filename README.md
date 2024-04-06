@@ -1,6 +1,4 @@
-Hi, I’m Andrew Pitman, welcome to my GitHub.
-I use code to solve interesting interesting problems, especially in math.
-I still have a lot to learn.
+Hi, I’m Juniper Pitman, welcome to my GitHub.
 
 <!---
 DrewPitman/DrewPitman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
